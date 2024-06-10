@@ -22,3 +22,8 @@ flutter:
   assets:
     - asset/svg/
     - asset/image/
+  fonts: 
+    - family: Raleway
+      fonts:
+        - asset: asset/fonts/Raleway-Regular.ttf
+

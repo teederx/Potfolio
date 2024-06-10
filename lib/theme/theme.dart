@@ -8,7 +8,11 @@ class PolymerTheme {
           seedColor: PortfolioColor.primary,
           background: PortfolioColor.primary,
         ),
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Colors.transparent,
+          foregroundColor: PortfolioColor.whiteAccent,
+        ),
         useMaterial3: true,
-        // fontFamily: 'Gilroy'
+        fontFamily: 'Raleway'
       );
 }
